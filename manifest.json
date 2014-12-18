@@ -6,7 +6,8 @@
   "version": "1.0",
 
   "permissions": [
-    "https://secure.flickr.com/"
+    "https://secure.flickr.com/",
+    "https://www.flickr.com/photos/58013055@N05/favorites"
   ],
   "browser_action": {
     "default_icon": "icon.png",
